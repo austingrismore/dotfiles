@@ -1,0 +1,8 @@
+# Setup
+Install these settings globally.
+
+Generally they would go here:
+
+```swift
+$HOME/Library/Application Support/Code/User/settings.json
+```

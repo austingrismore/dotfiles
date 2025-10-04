@@ -1,0 +1,7 @@
+{
+  // Recommended extensions for this project
+  "recommendations": [
+    "hashicorp.terraform",   // Terraform formatter & linting
+    "timonwong.shellcheck" // Shell formatting & linting
+  ]
+}
