@@ -1,0 +1,13 @@
+{
+  // Formatting
+  "editor.formatOnSave": true,
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+  "[terraform-vars]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+
+  // Only req on personal mac, pin to v1.97
+  //"update.mode": "none"
+}
