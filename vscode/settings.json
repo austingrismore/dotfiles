@@ -1,13 +1,11 @@
 {
-  // Formatting
-  "editor.formatOnSave": true,
-  "[terraform]": {
-    "editor.defaultFormatter": "hashicorp.terraform"
-  },
-  "[terraform-vars]": {
-    "editor.defaultFormatter": "hashicorp.terraform"
-  },
-
-  // Only req on personal mac, pin to v1.97
-  //"update.mode": "none"
+    "editor.formatOnSave": true,
+    "[terraform]": {
+        "editor.defaultFormatter": "hashicorp.terraform"
+    },
+    "[terraform-vars]": {
+        "editor.defaultFormatter": "hashicorp.terraform"
+    },
+    "_comment": "This configuration is only needed on my personal macbook running 10.15.",
+    "update.mode": "none"
 }
