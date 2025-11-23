@@ -46,6 +46,7 @@ brew "openssh"
 brew "rsync"
 brew "nmap"
 brew "watch"
+brew "slides"
 
 # Ops
 brew "awscli"
